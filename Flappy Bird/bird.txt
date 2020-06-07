@@ -1,0 +1,32 @@
+ HTML
+ Draw to canvas
+ Draw image to canvas
+ Fit an image
+ Draw the Bird 
+
+Game State
+
+Animate the Bird
+
+Gravity and flap
+
+Bird Rotation
+
+Bird Update()
+
+Move foreground
+
+Create the Pipes
+
+Draw the Pipes
+
+Move the Pipes
+
+Collision Detection
+
+Score
+
+On Click Event
+
+Adding the Sounds
+
